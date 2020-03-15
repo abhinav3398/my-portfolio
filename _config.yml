@@ -1,22 +1,23 @@
 # Site settings
-name: Edwin E. Exemplar
-email: edwin+contactme@someemail.com
+name: Abhinav Lakhani
+email: 3398abhinav.com
 #canonical_url: https://edwinexemplar.com
-keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
-skills: "Senior Software Engineer in Seattle, WA (Fictitious)"
+keywords: "Python, Julia, C, Machine Learning, Deep Learning, Data Engineer, Agile, Pair Programming, Game/Mobile/Web/Software Developer, Mechatronics Engineer"
+skills: "Computer Programmer in Gandhinagar, GJ (India)"
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/cgroom/
-  - title: medium
-    url: https://medium.com/@cgroom
-  - title: twitter
-    url: https://twitter.com/chuck_groom
-    
-# Google webmaster tools
+    url: https://www.linkedin.com/in/abhinav-lakhani/
+  - title: github
+    url: https://github.com/abhinav3398
+  - title: grab-cad
+    url: https://grabcad.com/abhinav.lakhani-2
+
+# Google Google Search Console:
+# https://search.google.com/search-console/
 google_verify:
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
