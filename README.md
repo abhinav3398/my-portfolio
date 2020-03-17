@@ -1,5 +1,3 @@
-# Intro
-
 This is an example one-pager site that prospective job-seekers can use to quickly
 highlight their accomplishments and make an introduction. It can be hosted for free using
 GitHub Pages (as a Jekyll page).
@@ -10,14 +8,18 @@ is a prose-centric version tailored to software developers. [formspree](http://f
 
 ## Demo
 
-View an example one-pager [here](https://objective-babbage-54259a.netlify.com/)<!-- (http://chuckgroom.com/onepage-bio/) -->
+View an example one-pager [here](http://chuckgroom.com/onepage-bio/)
 
 ## How to use
 
-- Place your photo in `/img/profile.png`
-- (Optional) Update the favicon `/img/icon.png`
-- Edit `_config.yml` to give your name, email address, social media contacts, etc. You can also update the color scheme.
-- Edit content in `/_includes/about_me.html` and `/_includes/interests.html`
+ - Place your photo in `/img/profile.png`
+ - (Optional) Update the favicon `/img/icon.png`
+ - Edit `_config.yml` to give your name, email address, social media contacts, etc. You can also update the color scheme.
+ - Edit content in `/_includes/about_me.html` and `/_includes/interests.html`
+
+## Screenshot
+
+![screenshot](https://raw.githubusercontent.com/chuckgroom/onepage-bio/master/screenshot.png)
 
 ## Jekyll
 
